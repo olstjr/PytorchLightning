@@ -1,2 +1,2 @@
 # PytorchLightning
-Pytorch lightning tutorial
+Pytorch lightning
